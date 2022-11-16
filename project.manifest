@@ -2198,7 +2198,7 @@
 			"md5": "775c28786d9c353cf9bad5478a637fc0"
 		},
 		"res/db_n64.txt": {
-			"md5": ""
+			"md5": "6e1322795f1ee9ba2283ed21a852f6b4"
 		},
 		"res/db_nes.txt": {
 			"md5": "4c0b3084f5db6fe6f6cfeb079ea4b5eb"
@@ -4865,7 +4865,7 @@
 			"md5": "d723445a60cceccdcc49a88a93b459b7"
 		},
 		"res/UI/DownloadPopupGBA.json": {
-			"md5": "d60c249118ce9a915a321c141c7189c8"
+			"md5": "d5892053124b06e2645f59fff02254d7"
 		},
 		"res/UI/DownloadPopupSNES.json": {
 			"md5": "3521a859d26caec0f9c123d3b5704c2c"
@@ -4907,7 +4907,7 @@
 			"md5": "e397108334c90021ef9b65f8b4eec52c"
 		},
 		"res/UI/GameLayer_N64.json": {
-			"md5": "87d63e9cee2682a921d3dc61fea1c80e"
+			"md5": "1fbb6af1de90122077bf05b77eb65e88"
 		},
 		"res/UI/GameLayer_SNK.json": {
 			"md5": "43e0bd5bdaad185ddede7827794fd88b"
@@ -4974,9 +4974,6 @@
 		},
 		"res/UI/image/icon_snk.png": {
 			"md5": "6dfa5d38572b1fa48e451ad908003c6f"
-		},
-		"res/UI/image/mslug.png": {
-			"md5": "051da8e6958e3595a475ecd2826bf092"
 		},
 		"res/UI/image/promo_label.png": {
 			"md5": "5245171aaca1f139e657da80a22a8ba2"
@@ -5093,7 +5090,7 @@
 			"md5": "03b7a8d4c1d730c4cd747c1733f2ce34"
 		},
 		"res/UI/Options_N64.json": {
-			"md5": "d6c072bef9b764f2a80310a44cc0bf78"
+			"md5": "27d2c7bb3a6729ce61c9eefd2dedc04b"
 		},
 		"res/UI/Options_SNES.json": {
 			"md5": "16997b4014b46fe099d655bf8148a758"
