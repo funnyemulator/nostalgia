@@ -1,9 +1,9 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/main/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/main/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/main/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/main/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/main/",
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/",
 	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
@@ -4819,6 +4819,9 @@
 		"res/UI/Default/Button_Press.png": {
 			"md5": "196a2b3a9903e60fc56925207ae0db5c"
 		},
+		"res/UI/Default/ImageFile.png": {
+			"md5": "d0498e271573e8d0c9e936263c570633"
+		},
 		"res/UI/Default/Slider_Back.png": {
 			"md5": "c2771fa07f15afa82abe6cb8d14a9dac"
 		},
@@ -4907,7 +4910,7 @@
 			"md5": "e397108334c90021ef9b65f8b4eec52c"
 		},
 		"res/UI/GameLayer_N64.json": {
-			"md5": "1fbb6af1de90122077bf05b77eb65e88"
+			"md5": "c1de80f571d6515a275052c4a86fffd8"
 		},
 		"res/UI/GameLayer_SNK.json": {
 			"md5": "43e0bd5bdaad185ddede7827794fd88b"
@@ -5210,7 +5213,7 @@
 			"md5": "0a615473c6e6d9c43a37dd65deaf5005"
 		},
 		"res/UI/store/stores.plist": {
-			"md5": ""
+			"md5": "cc30258f2d70e7a5bc7028658a8e8717"
 		},
 		"res/UI/store/stores.png": {
 			"md5": "11bd09b5745220aef919b055e267c9d7"
@@ -5687,7 +5690,7 @@
 			"md5": "9c2ff222b4070ab1e90995da503d5970"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
-			"md5": "a22dadef114b045addb4161785d49429"
+			"md5": "1b4adf29875f38feeae7de54ebf19fcc"
 		},
 		"src/NES/Game/Gamepad.js": {
 			"md5": "94fde6bb6c7b3a2d9226952cf45366f8"
