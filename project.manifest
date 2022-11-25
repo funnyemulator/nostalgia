@@ -1,17 +1,17 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.0.1/",
-	"version" : "3",
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.1.0/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.1.0/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.1.0/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.1.0/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/nostalgia/v1.1.0/",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "6c5ed2313656a33c3d0c5efa326ce4ae"
 		},
 		"main.js": {
-			"md5": "e942227e7f0207ac0b78e83603e88a01"
+			"md5": "4d0d1ca56c9d6ffee07967b6606f34b7"
 		},
 		"project.json": {
 			"md5": "1a0486afbe8cae339aef4f94aa883599"
@@ -2189,7 +2189,7 @@
 			"md5": "0b9c9c6e535fb5a5c21774527c77def5"
 		},
 		"res/db_config/default.json": {
-			"md5": "127ff38cdd91f802473aaa57ed953f70"
+			"md5": "4b1d3b25e60a378eb33a559e895822a4"
 		},
 		"res/db_gba.txt": {
 			"md5": "8a383ce9e36ac17b569fb156ce837bc3"
@@ -4156,6 +4156,9 @@
 		"res/n64_rom/master/art/Zelda_no_Densetsu_Toki_no_Ocarina.jpg": {
 			"md5": "2e32747374185c99232c9a71984a2ac0"
 		},
+		"res/SCPH1001.bin": {
+			"md5": "4134af74e78ffe06da274def7334926d"
+		},
 		"res/shaders/BlurSprite.mat": {
 			"md5": "747bf866d6753aa30d5e6755609d0989"
 		},
@@ -4988,7 +4991,7 @@
 			"md5": "922e50413553b5aebc7e51c7e9a09bf6"
 		},
 		"res/UI/JoystickPS.json": {
-			"md5": "ba463510a1de8d565afe56141fba6d39"
+			"md5": "1b5e0360af567e13873a8e2d1abe93e4"
 		},
 		"res/UI/JoystickSNK.json": {
 			"md5": "d74b7185384f3f045765e9ccd021292a"
@@ -5195,7 +5198,7 @@
 			"md5": "7382f48a8f0671ec11cf67fd910ac560"
 		},
 		"res/UI/StartupScene_NostalgiaSaga.json": {
-			"md5": "cc1e3ccb21ab2e4b933291053b5e6b29"
+			"md5": "e7e6bbe11cf914343ed472605d710566"
 		},
 		"res/UI/StartupScene_Project64.json": {
 			"md5": "5f11400c31d5afa35d3b6a49fcc5460d"
@@ -5213,7 +5216,7 @@
 			"md5": "0a615473c6e6d9c43a37dd65deaf5005"
 		},
 		"res/UI/store/stores.plist": {
-			"md5": "cc30258f2d70e7a5bc7028658a8e8717"
+			"md5": "75feaabbe78347ef0f28836051c309a8"
 		},
 		"res/UI/store/stores.png": {
 			"md5": "11bd09b5745220aef919b055e267c9d7"
@@ -5639,10 +5642,10 @@
 			"md5": "1fbbf170a6d2ee95f160f83dbb1b7ca0"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "8bfd1cc9c862b973ef4aa2f66ba5d722"
+			"md5": "cb02587de6fb2cb67f584592792999d1"
 		},
 		"src/NES/Constant.js": {
-			"md5": "15a9a344e92e186ff8d0668eddfe8f8e"
+			"md5": "cdd598a589c99a5a3609bd40e88f2e7c"
 		},
 		"src/NES/Debug/DebugNode.js": {
 			"md5": "f7cfceecfb2eff40e6cae0d08c6bf2b8"
@@ -5690,13 +5693,13 @@
 			"md5": "9c2ff222b4070ab1e90995da503d5970"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
-			"md5": "a22dadef114b045addb4161785d49429"
+			"md5": "1b4adf29875f38feeae7de54ebf19fcc"
 		},
 		"src/NES/Game/Gamepad.js": {
 			"md5": "94fde6bb6c7b3a2d9226952cf45366f8"
 		},
 		"src/NES/Game/Joystick.js": {
-			"md5": "e8cc1bf23cdb6de916463e8c196e3ab9"
+			"md5": "92a99db046682c34374c02a9fe431347"
 		},
 		"src/NES/gamedata.js": {
 			"md5": "5d301d310ee76a5caa17d245a1e3a5db"
@@ -5738,7 +5741,7 @@
 			"md5": "fb5444362876a3a1a90c76461af676ad"
 		},
 		"src/NES/Home/Shop.js": {
-			"md5": "12119eb243847384fb33e0d9c8c45d1f"
+			"md5": "ac1996dc79a6c3cfe92d37bb5e1b4703"
 		},
 		"src/NES/Home/StartupScene.js": {
 			"md5": "e7275111e8af0f05fb275b351721b015"
@@ -5768,13 +5771,13 @@
 			"md5": "8517477ae8ac9fbe5c6b3bee58d10c66"
 		},
 		"src/NES/NESViewer.js": {
-			"md5": "962f2246b01599ff7a8cda63ea7f7e95"
+			"md5": "a5dd61a2bc7e4ddfacd702ec4a95fd5c"
 		},
 		"src/NES/Notification/NotificationNode.js": {
 			"md5": "8713e58aac9047ed9e8325d241d3ff82"
 		},
 		"src/NES/TestLayer.js": {
-			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
+			"md5": "db152d2c52b1d698698fd93f57f7fa6c"
 		},
 		"src/NES/tracking.js": {
 			"md5": "6a26b5bf83a6eb5c07842ea47652b7b2"
